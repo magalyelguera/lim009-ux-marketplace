@@ -27,6 +27,7 @@ sus productos o servicios. Algunos de los emprendimientos con los cuales puedes 
 - [Cocina Abierta](https://instagram.com/cocinaabierta.pe)
 - [Sweet little Neia](https://www.facebook.com/sweetlittleneia)
 - [Andi the coach](https://andithecoach.com)
+- [The Planning Co.](https://www.facebook.com/theplanningco/)
 - [Talleres De Arte TFA](https://www.instagram.com/tallerdeartetfa/)
 - [Sweet peach](https://www.facebook.com/sweet.peach.peru/)
 - [Le Pastel Bakery](https://www.instagram.com/lepastelbakery/)
