@@ -1,284 +1,306 @@
-# Plataforma de ventas en línea
+#  Plataforma e-commerce : Harakiri Doll
 
-## Preámbulo
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
+##  Preámbulo
 
-## Introducción
+Harajuku ( 原宿 "alojamiento de la pradera" ) es el nombre con el cual se conoce a la zona que rodea a la Estación Harayuku en Tokio (Japón). Es conocida por ser uno de los lugares de compras más populares de la ciudad, a la vez que sirve como punto de encuentro para los jóvenes, quienes cada domingo se reúnen y exhiben estilos de moda únicos y de vanguardia. Entre cadenas, vendajes, maquillajes extravagantes, trajes oscuros e incluso tradicionales como los kimonos, los ávidos seguidores de la moda de Harayuku asisten todos los domingos para enseñar estilos poco usuales y según sus propias inclinaciones.
 
-### “Nuevo portal de e-commerce”
+  > "No se trata de disfrazarte, todo debe verse natural, es una vestimenta que nos refleja como personas , te da mucha seguridad y mejora tu autoestima porque permite expresarte"
+> **Vanessa Huaytán, fundadora de Lolimafia**
 
-Existen pequeñas empresas (emprendimientos) que comercializan productos y 
-servicios reduciendo la cantidad de intermediarios. En este proyecto, tienes que
-asesorar a un emprendimiento a crear un portal desde donde los clientes compren
-sus productos o servicios. Algunos de los emprendimientos con los cuales puedes trabajar son:
+La comunidad harajuku en nuestro país ha estado latente desde comienzos del siglo XXI, pero no es hasta el año 2007 en la cual se llega a hacer visible mediante la productora Harakiri Kei y el inicio de eventos abiertos a todo el público. Con una afluencia de 200 personas en la última edición de"Harajuku Walk Lima" , podemos decir que el estilo harajuku ha venido a quedarse en tierras peruanas, dejándonos una sensación de seguridad, expresión, pero sobre todo libertad.
 
-- [Cocina Abierta](https://instagram.com/cocinaabierta.pe)
-- [Sweet little Neia](https://www.facebook.com/sweetlittleneia)
-- [Andi the coach](https://andithecoach.com)
-- [The Planning Co.](https://www.facebook.com/theplanningco/)
-- [Talleres De Arte TFA](https://www.instagram.com/tallerdeartetfa/)
-- [Sweet peach](https://www.facebook.com/sweet.peach.peru/)
-- [Le Pastel Bakery](https://www.instagram.com/lepastelbakery/)
-- [Delivery Fruta La Grande](https://www.facebook.com/Delivery-Fruta-La-Grande-143207576316285/)
+<p  align="center">
 
-Luego de definir con qué miembro trabajarás, debes ayudar a ese emprendimiento
-a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos o servicios a los consumidores. Queremos que averigües cómo
-son los clientes que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
+<img  src="http://i65.tinypic.com/2uiiyj9.jpg">
 
-Una vez realizada la investigación debes formular una propuesta de valor. Esto
-quiere decir que debes pensar cómo este portal va a comunicar sus beneficios a
-los usuarios y cómo va a vender sus productos. Para que guíes a la empresa que
-elijas a entender tu visión, esperan que les hagas una propuesta de cómo podría
-ser el portal donde las personas puedan buscar, ver, elegir y comprar sus
-productos.
+</p>
 
-## Objetivos de aprendizaje
+##  ¿ Qué es Harakiri Doll ?
+Cuando oímos la palabra *harakiri*, automáticamente la asociamos con el ritual japonés que tenían los sumarais al momento de cometer suicidio antes de morir en manos de su enemigo. 
+**¿Y como puede relacionarse eso con el nombre de nuestra marca?** Fácil, en el Perú por el año 2007 era un suicidio social salir a la calle utilizando el estilo Harajuku, mencionaba la dueña de la tienda virtual Harakiri Doll.
 
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
+Harakiri Doll se inició como marca en el 2009 con una idea base de venta de accesorios hechos a mano por la diseñadora Sue Ellen Talavera Zamudio conocida como Moon Bastet. En el 2010, comenzó a realizar diseños de estilo harajuku(lolita entre otros),y así para el año 2013 ingresar a las redes sociales y consolidarse como la primera tienda en vender artículos de este estilo . La marca busca una inclusión y aceptación de los estilos denominados "diferentes" y ha trabajado de la mano con diferentes artistas para pasarelas, fotos y eventos de temáticas diversas. 
 
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
+Harakiri Doll brinda el servicio de confección de prendas a medida de estilo harajuku, dándoles la confianza de que su vestimenta será exclusiva y hecha por personas que conocen sobre el estilo. La tienda además ofrece un stock de prendas de estilo casual japonés para cualquier público.
 
-## Tópicos a cubrir
+<p  align="center">
 
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
+<img  src="http://i65.tinypic.com/dxof8g.jpg">
 
-## Consideraciones generales
+</p>
 
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
 
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
+## Objetivo del proyecto
 
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
+Este proyecto tiene como objetivo evaluar las fortalezas y debilidades de venta de la tienda "Harakiri Doll", además de conocer al público usuario de estos productos, determinando si es que tienen alguna dificultad al momento de mandar a confeccionar una prenda. Se evaluará si la solución es la creación de una página e-commerce, el flujo de compra e información que debe tener, para poder crear una experiencia grata y placentera a lo usuarios, tanto nacionales como internacionales.
 
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
 
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
-
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
-
-## Parte Obligatoria
-
-### 1) General
-
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Puedes usar Google Drive para guardar toda esta
-documentación y luego linkear las partes más importantes en el `README.md` de tu
-repositorio en GitHub.
-
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
-
-### 2) Entendimiento del problema
-
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
-
-### 3) Planteamiento y validación de la solución
-
-Luego de haber definido cómo es que será la solución, es decir qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
 
 ## Implementación
 
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-cómo es que distribuirás estos puntos en estas actividades.
-El coach te dará el ok para que puedas empezar.
+Para realizar este proyecto hemos escogido  y utilizado las siguientes actividades:
+
 
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
+|Entrevistas con cliente| Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos. | 25 |
 |Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
+|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 | 
+|Flujo / árbol de contenidos| Documento que estructura contenidos y su navegación | 15 |
 |Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 
-## Entrega
+## 1. INVESTIGACIÓN
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
+### Navegación por sus redes sociales 
+El inicio de nuestra investigación fue investigar el flujo de compra que Harakiri Doll estaba ofreciendo a sus usuarios y para esto pudimos identificar que utilizaban tanto facebook como instagram para la promoción de sus prendas y próxima venta. A continuación un cuadro comparativo de sus 2 redes sociales.
 
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
+ <p align="center">
+<img src="http://i65.tinypic.com/24boqgw.jpg">
+</p>
 
-Un video en [Loom](https://www.useloom.com/) de máximo 7 minutos explicando tu documento.
-* Estos 7 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
+### Hidden user
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
+Nuestra hidden user se comunicó con la tienda por medio de instagram y esto fue lo que obtuvo:
+- Se comunicó por DM con la tienda a las 9:45 pm del 27/04
+- La tienda respondió a las 12:45 pm del 28/04, indicándole el punto de venta y los modelos que tenía en stock.
 
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
+### Entrevista con la cliente, Moon Bastet
+Moon Bastet, dueña de la tienda nos comentó  acerca de querer internacionalizar la tienda al recibir varios pedidos del extranjero.
+Considera que la tienda es estacional y nos pidió enfocarnos en los vestidos lolita, ya que es lo que más vende entre los meses de junio a diciembre (entre 50 a 70 vestidos). Desea que los pagos sean con VISA, Mastercard y Paypal.
 
-## Otras consideraciones
+- [Guías de entrevistas y audios](https://drive.google.com/drive/folders/15qVUF07t37MkCdLYa4gtMvhYq8PCzp48)
 
-### 1) Planeamiento y presupuesto
+<p align="center">
+<img src="http://i68.tinypic.com/102kqo7.jpg"> <img src="http://i67.tinypic.com/70uuzk.jpg">
+</p> 
 
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
+### BENCHMARK
+<p align="center">
+<img src="">
+</p>
 
-### 2) Definición del producto
+#### Planteamiento del problema:
+Luego de nuestra entrevista a la clienta y de la exploración de sus redes sociales pudimos reconocer algunos problemas:
+* El servicio principal de la página es ofrecer la confección de prendas a medida, pero en ninguna de sus redes sociales lo menciona.
+* Se demora en responder un mnesaje privado en Facebook.
+* La fanpage de facebook se actualiza días después que la de Instagram.
+* Repostea los post antiguos en la fanpage de Facebook.
+* Las entregas de las prendas sólo son en San Borja, Miraflores y Surco.
+* Al ser la clienta la única que confecciona las prendas, los tiempos de entrega varían entre 15 días a 1 mes y medio, dependiendo de su disponibilidad.
+* Ha tenido problemas con envíos a provincia por el pago, es por eso que ahora se hace un depósito íntegro antes de enviar el producto
+* Ha perdido clientes en el extranjero que conocen de su trabajo, por no tener una e-commerce.
+* Ha perdido ventas por no tener pago con Visa o Mastercard.
 
-Al definir el producto recuerda pensar en:
+ 
+### ENTREVISTAS CON USUARIOS
+Queríamos saber y entender las necesidades de los clientes y potenciales clientes, es por eso que entrevistamos a 4 usuarias de HD y 2 posibles usuarias que utilizan el estilo harajuku.
 
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
+- [Guías de entrevistas y audios](https://drive.google.com/drive/folders/1jM6RriZjtHbMgyHOtVBsPNOMHbbK86yp)
 
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
-
-### 4) HTML, CSS y JS
-Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarrolla **una vista como mínimo** (aparte del login)
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
+* Conclusiones de entrevistas
+<p align="center">
+<img src="http://i66.tinypic.com/2chx7xx.jpg">
+</p>
 
 
-## Hacker edition
+## 2. SÍNTESIS Y DEFINICIÓN
 
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
+#### AFFINITY MAP
+.
+<p align="center">
+<img src="">
+</p>
 
-- Escribe un post en Medium contando tu proceso de investigación
+#### USER PERSON
+Nuestro usuario ideal esta representado por "Sthephanie", una diseñadora gráfica que viste de forma casual y sin llamar la atención en su trabajo, pero que utiliza el estilo lolita fuera de este. Le encantan los colores oscuros y las faldas con mucho vuelo. Hace sus compras en Alliexprese, ya que el método de pago es rápido, pero también compra compra en Harakiri Doll y Cuteberry.
+<p align="center">
+<img src="http://i64.tinypic.com/2ajz3th.png">
+</p>
+
+#### CUSTOMER JOURNEY MAP 
+.
+
+<p align="center">
+<img src="http://i67.tinypic.com/2ijixz4.jpg">
+</p>
+
+- [Customer journey map HD](https://www.figma.com/proto/bbMTlqQVdVuGuIZM5rZcE0/HD-3ra-presentaci%C3%B3n?node-id=2%3A5&scaling=min-zoom)
+
+
+
+
+##### PROBLEM STATEMENTS
+Ahora que ya conocemos al nuestro cliente (User Persona) y sabemos sus necesidades, identificaremos los problemas para buscar los posibles soluciones.
+<p align="center">
+<img src="">
+</p>
+
+##### HOW MIGHT WE / CÓMO PODRÍAMOS
+Ahora pensaremos las posibles soluciones para nuestros "problem statements".
+<p align="center">
+<img src="">
+</p>
+
+#### DEFINICION DEL PRODUCTO
+
+
+<p align="center">
+<img src="">
+</p>
+
+#### PLANTEAMIENTO DE LA SOLUCIÓN 
+
+
+##  3. IDEACION , PROTOTIPADO Y USER TESTING
+
+  
+
+###  Primer prototipo de baja fidelidad
+
+<p  align="center">
+
+<img  src="http://i68.tinypic.com/10qmiiq.png" >
+
+  
+
+</p>
+
+- [Vistas del prototipo de baja fidelidad](https://drive.google.com/drive/folders/1PLNQhle1LDQI41HU6kvElu5w374VPnJV)
+
+  
+
+###  Feedback
+
+
+* El prototipo presentado parece de una e-commerce común, no están ofreciendo el servicio de confección de prendas a medida.
+
+* Un home donde se muestre información de la tienda lo vemos innecesario, se debe priorizar la venta del producto.
+
+* Elijan trabajar con stock o prendas a medida.
+
+  
+  
+  
+
+###  Segundo prototipo de baja fidelidad
+-  [Vistas del prototipo de baja fidelidad interactivo - Adobe Xd](https://xd.adobe.com/view/e06dc0d1-4d27-4461-4d2f-07a649758887-965c/)
+
+
+<p  align="center">
+
+<img  src="http://i64.tinypic.com/j5xdhu.png">
+
+</p>
+
+### Resultados del Testing de Baja Fidelidad 2
+
+  * Los usuarios no sabían que vendía la tienda hasta que  ingresaba a uno de los botones.
+* No entendían que significaba trabajos realizados
+* Si hacía prendas a medida ¿Por qué tenía prendas en stock?
+* Hay demasiada "letra"
+* Les gustaría que en el proceso de pasos para adquirir la prenda (ver en el prototipo interactivo) haya un breadcrumbs.
+* Si es una diseñadora ¿Por qué no tiene una galería de fotos? 
+* Los usuarios comentaron que si les parecía necesario el registro.
+
+
+###  Tercer prototipo de baja fidelidad
+
+ 
+-  [Vistas del prototipo de baja fidelidad interactivo - Figma]([https://www.figma.com/proto/gomxGijhzqTqknVQlsk5r4J1/Harakiri-doll?node-id=0%3A1&scaling=scale-down](https://www.figma.com/proto/gomxGijhzqTqknVQlsk5r4J1/Harakiri-doll?node-id=0%3A1&scaling=scale-down)
+
+<p  align="center">
+
+<img  src="http://i68.tinypic.com/ehf59l.png"  >
+</p>
+
+<p  align="center">
+
+<img  src=" http://i64.tinypic.com/14xnwwi.png
+"  >
+</p>
+
+ 
+###  Resultados del tercer testing de baja fidelidad
+
+ * La usuaria comprendió el flujo de la tienda, pero hubiera preferido imágenes.
+ * Le pareció que el flujo era el mismo, nos recomendó diferenciar los 2 flujos, aunque estén interconectados
+ * Con respecto a las prendas de colección, hubiera preferido que le den tallar estándares.
+ * Le pareció mucho tiempo los dos días de espera por una respuesta, en todo caso le gustaría que si vuelve a entrar a la tienda le envíen una notificación de alerta.
+  
+
+-  [Videos del Testing de baja fidelidad](https://drive.google.com/drive/folders/1B5zfk6ejVjdtF1pk5-uqEBVaZCVBV1XB)
+
+
+
+
+###  Prototipo de Alta fidelidad
+
+Tomamos en cuenta todos los testing de baja fidelidad e insertamos las siguientes mejoras:
+
+- Un mensaje avisando que la cotización ya está lista.
+- Diferenciamos los dos flujos desde el primer paso.
+- Agregamos un breadcrumbs.
+  
+
+Realizamos el testing a una usuaria y para ello les pedimos que realizaran 2 tareas: 
+
+  
+  
+
+<p  align="center"><a href="http://picasion.com/"><img src="http://i.picasion.com/pic89/2c6e9206a3dd19dd295d20190737a9fe.gif" width="400" height="637" border="0" alt="http://picasion.com/" /></a><br /><a href="http://picasion.com/"></a><br/>  </p>
+
+  
+
+-  [Prototipo de alta fidelidad- Figma](https://www.figma.com/proto/CemttTIStb23CvmxOBktZfHW/HD-Alta?scaling=min-zoom)
+
+  
+
+<p  align="center">
+
+<img  src=""  width="300">
+
+</p>
+
+  
+
+###  Resultados del testing de alta fidelidad
+
+Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios , hemos encontrado las siguientes dificultades que nos servirán para iterar:
+
+  
+
+* El botón de "Obtenlo aquí" fue lo primero que vi y me confundió, pensé que era una sola cosa con la coleeción
+
+* Me gustaría que el precio del envío y de la prenda tenga un precio estándar (que el cambio de dólar sea estándar como en Paypal)
+
+* Quisiera que hubiera un código de colores para escoger
+
+* La chica de "Felicidades" podría ser alguien real.
+
+
+
+
+- [Videos del testing de Alta fidelidad]()
+
+# Enlaces 
+
+## Prototipo navegable
+[Link a prototipo navegable](https://www.figma.com/proto/CemttTIStb23CvmxOBktZfHW/HD-Alta?node-id=0%3A1&scaling=min-zoom)
+
+## Link de Figma
+[Link a prototipo navegable](https://www.figma.com/file/CemttTIStb23CvmxOBktZfHW/HD-Alta?node-id=0%3A1)
+
+## Link de Zeplin
+[Link a Zeplin]()
+
+## Proyecto en Drive
+[Link a documentación en Google Drive](https://drive.google.com/drive/folders/1coUuJZ8lqsTP3nShjLnNhFqDDMnXslmu)
+
+## Video en Loom
+[Link a video de explicación del proyecto]()
+
+
+
