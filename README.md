@@ -32,12 +32,27 @@ Harakiri Doll brinda el servicio de confección de prendas a medida de estilo ha
 
 </p>
 
+<p  align="center">
+
+<img  src="http://i66.tinypic.com/245he37.png" width="300">
+
+</p>
+
+<p  align="center">
+
+<img  src="http://i66.tinypic.com/28lvy9c.png" width="300">
+
+</p>
+
+> **Nota:** The **cambio de logo** varía según lo que este vendiendo la tienda esa temporada. El primer logo fue usado para la temporada de verano y la venta de ropa casual japonesa, el segundo logo estará siendo usado para la temporada otoño-invierno y la venta de vestidos lolita a confección. El tercer logo es una propuesta para esa temporada.
+
 
 ## Objetivo del proyecto
 
-Este proyecto tiene como objetivo evaluar las fortalezas y debilidades de venta de la tienda "Harakiri Doll", además de conocer al público usuario de estos productos, determinando si es que tienen alguna dificultad al momento de mandar a confeccionar una prenda. Se evaluará si la solución es la creación de una página e-commerce, el flujo de compra e información que debe tener, para poder crear una experiencia grata y placentera a lo usuarios, tanto nacionales como internacionales.
+Este proyecto tiene como objetivo evaluar las fortalezas y debilidades de venta de la tienda "Harakiri Doll", además de conocer al público usuario de estos productos, determinando si es que tienen alguna dificultad al momento de mandar a confeccionar una prenda. Se evaluará si la solución es la creación de una página e-commerce, el flujo de compra e información que debe tener para poder crear una experiencia grata y placentera a lo usuarios, tanto nacionales como internacionales.
 
-Cabe resaltar, que el enfoque de nuestro proyecto estará basado en las prendas a medida (estilo lolita).
+Cabe resaltar, que el enfoque de nuestro proyecto estará basado en las **PRENDAS A MEDIDA** (estilo lolita)
+
 
 
 ## Implementación
@@ -54,6 +69,7 @@ Para realizar este proyecto hemos escogido  y utilizado las siguientes actividad
 |Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+|Total|  | 290 |
 
 ## 1. INVESTIGACIÓN
 
@@ -81,8 +97,13 @@ Considera que la tienda es estacional y nos pidió enfocarnos en los vestidos lo
 </p> 
 
 ### BENCHMARK
+
+Dividimos el benchmark en dos, ya que nuestro servicio es confección de vestidos lolita a medida, ya sea por una referencia (foto) o un vestido de nuestra colección, por lo cuál para entender al usuario y al flujo de compra que se debe tener para confeccionar una prenda tuvimos los siguientes resultados.
 <p align="center">
-<img src="">
+<img src="http://i66.tinypic.com/2igdm5u.jpg" width="500">
+</p>
+<p align="center">
+<img src="http://i63.tinypic.com/21b6p3o.jpg" width="500" >
 </p>
 
 #### Planteamiento del problema:
@@ -107,8 +128,9 @@ Queríamos saber y entender las necesidades de los clientes y potenciales client
 
 
 
+
 <p align="center">
-<img src="http://i66.tinypic.com/2chx7xx.jpg">
+<img src="http://i66.tinypic.com/2chx7xx.jpg" width="300">
 </p>
 
 
