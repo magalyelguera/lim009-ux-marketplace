@@ -368,10 +368,10 @@ Realizamos el testing a una usuaria y para ello les pedimos que realizaran 2 tar
 [Link a prototipo navegable](https://www.figma.com/file/CemttTIStb23CvmxOBktZfHW/HD-Alta?node-id=0%3A1)
 
 ## Prototipo navegable(desktop) FALTA EDITAR
-[Link a prototipo navegable]()
+[Link a prototipo navegable](https://www.figma.com/proto/WEdZh6AFf7dAMT1tykPDZ5HN/HD-Desktop?node-id=34%3A2&scaling=scale-down-width)
 
 ## Link de Figma(desktop) FALTA EDITAR
-[Link a prototipo navegable]()
+[Link a prototipo navegable](https://www.figma.com/file/WEdZh6AFf7dAMT1tykPDZ5HN/HD-Desktop?node-id=0%3A1)
 
 
 ## Link de Zeplin
