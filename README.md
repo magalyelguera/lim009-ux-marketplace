@@ -139,14 +139,17 @@ Queríamos saber y entender las necesidades de los clientes y potenciales client
 #### AFFINITY MAP
 Después de las entrevistas con nuestros usuarios, nos dispusimos agrupar las citas más relevantes de toda  la información dicha:
 <p align="center">
-<img src="http://i68.tinypic.com/2llf5mu.png"width="500">
+<img src="http://i63.tinypic.com/28vaxcj.jpg"width="500">
 </p>
+<p align="center">
 <img src="http://i68.tinypic.com/c3h2p.jpg"width="500">
+</p>
 
 Donde pudimos rescatar los siguientes puntos:
-**Flujo de compra**: Inicia en redes sociales, preguntan por el stock, talla, costo y/o envían modelos, depositan el 50%, esperan el producto y cancelan el 50% restante.
-**Lo que más les gusto de la tienda**: La atención fue buena, los vestidos son confeccionados a medida, también se puede pedir modelos ya hechos. Les gustó el obsequio al final de la compra
-**Lo que menos les gusto de la tienda**: La espera del producto, el medio de pago, las entregas fuera del tiempo establecido.  
+
+* **Flujo de compra**: Inicia en redes sociales, preguntan por el stock, talla, costo y/o envían modelos, depositan el 50%, esperan el producto y cancelan el 50% restante.
+* **Lo que más les gusto de la tienda**: La atención fue buena, los vestidos son confeccionados a medida, también se puede pedir modelos ya hechos. Les gustó el obsequio al final de la compra
+* **Lo que menos les gusto de la tienda**: La espera del producto, el medio de pago, las entregas fuera del tiempo establecido.  
 #### USER PERSON
 Nuestro usuario ideal esta representado por "Sthephanie", una diseñadora gráfica que viste de forma casual y sin llamar la atención en su trabajo, pero que utiliza el estilo lolita fuera de este. Le encantan los colores oscuros y las faldas con mucho vuelo. Hace sus compras en Alliexprese, ya que el método de pago es rápido, pero también compra compra en Harakiri Doll y Cuteberry.
 <p align="center">
