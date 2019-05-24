@@ -182,7 +182,18 @@ Ahora pensaremos las posibles soluciones para nuestros "problem statements".
 
 #### DEFINICIÓN DEL PRODUCTO
 
+#### MAPA DE SITIO
+
+<p align="center">
+<img src="http://i63.tinypic.com/mtund.jpg">
+</p>
+
 #### USER FLOW
+
+<p align="center">
+<img src="http://i67.tinypic.com/2zdsx7m.jpg">
+</p>
+
 
 #### FLUJO DE LA PÁGINA
 
