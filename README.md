@@ -93,17 +93,17 @@ Considera que la tienda es estacional y nos pidió enfocarnos en los vestidos lo
 - [Guías de entrevistas y audios](https://drive.google.com/drive/folders/15qVUF07t37MkCdLYa4gtMvhYq8PCzp48)
 
 <p align="center">
-<img src="http://i68.tinypic.com/102kqo7.jpg" width="300"> <img src="http://i67.tinypic.com/70uuzk.jpg" width="300">
+<img src="http://i68.tinypic.com/102kqo7.jpg" width="400"> <img src="http://i67.tinypic.com/70uuzk.jpg" width="400">
 </p> 
 
 ### BENCHMARK
 
 Dividimos el benchmark en dos, ya que nuestro servicio es confección de vestidos lolita a medida, ya sea por una referencia (foto) o un vestido de nuestra colección, por lo cuál para entender al usuario y al flujo de compra que se debe tener para confeccionar una prenda tuvimos los siguientes resultados.
 <p align="center">
-<img src="http://i66.tinypic.com/2igdm5u.jpg" width="500">
+<img src="http://i66.tinypic.com/2igdm5u.jpg" width="700">
 </p>
 <p align="center">
-<img src="http://i63.tinypic.com/21b6p3o.jpg" width="500" >
+<img src="http://i63.tinypic.com/21b6p3o.jpg" width="700" >
 </p>
 
 #### Planteamiento del problema:
@@ -130,18 +130,23 @@ Queríamos saber y entender las necesidades de los clientes y potenciales client
 
 
 <p align="center">
-<img src="http://i66.tinypic.com/2chx7xx.jpg" width="300">
+<img src="http://i66.tinypic.com/2chx7xx.jpg" width="500">
 </p>
 
 
 ## 2. SÍNTESIS Y DEFINICIÓN
 
 #### AFFINITY MAP
-.
+Después de las entrevistas con nuestros usuarios, nos dispusimos agrupar las citas más relevantes de toda  la información dicha:
 <p align="center">
-<img src="">
+<img src="http://i68.tinypic.com/2llf5mu.png"width="500">
 </p>
+<img src="http://i68.tinypic.com/c3h2p.jpg"width="500">
 
+Donde pudimos rescatar los siguientes puntos:
+**Flujo de compra**: Inicia en redes sociales, preguntan por el stock, talla, costo y/o envían modelos, depositan el 50%, esperan el producto y cancelan el 50% restante.
+**Lo que más les gusto de la tienda**: La atención fue buena, los vestidos son confeccionados a medida, también se puede pedir modelos ya hechos. Les gustó el obsequio al final de la compra
+**Lo que menos les gusto de la tienda**: La espera del producto, el medio de pago, las entregas fuera del tiempo establecido.  
 #### USER PERSON
 Nuestro usuario ideal esta representado por "Sthephanie", una diseñadora gráfica que viste de forma casual y sin llamar la atención en su trabajo, pero que utiliza el estilo lolita fuera de este. Le encantan los colores oscuros y las faldas con mucho vuelo. Hace sus compras en Alliexprese, ya que el método de pago es rápido, pero también compra compra en Harakiri Doll y Cuteberry.
 <p align="center">
@@ -174,6 +179,9 @@ Ahora pensaremos las posibles soluciones para nuestros "problem statements".
 
 #### DEFINICION DEL PRODUCTO
 
+#### USER FLOW
+
+#### FLUJO DE LA PÁGINA
 
 <p align="center">
 <img src="">
