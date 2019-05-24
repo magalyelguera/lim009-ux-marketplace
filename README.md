@@ -6,6 +6,7 @@
 Harajuku ( 原宿 "alojamiento de la pradera" ) es el nombre con el cual se conoce a la zona que rodea a la Estación Harayuku en Tokio (Japón). Es conocida por ser uno de los lugares de compras más populares de la ciudad, a la vez que sirve como punto de encuentro para los jóvenes, quienes cada domingo se reúnen y exhiben estilos de moda únicos y de vanguardia. Entre cadenas, vendajes, maquillajes extravagantes, trajes oscuros e incluso tradicionales como los kimonos, los ávidos seguidores de la moda de Harayuku asisten todos los domingos para enseñar estilos poco usuales y según sus propias inclinaciones.
 
   > "No se trata de disfrazarte, todo debe verse natural, es una vestimenta que nos refleja como personas , te da mucha seguridad y mejora tu autoestima porque permite expresarte"
+
 > **Vanessa Huaytán, fundadora de Lolimafia**
 
 La comunidad harajuku en nuestro país ha estado latente desde comienzos del siglo XXI, pero no es hasta el año 2007 en la cual se llega a hacer visible mediante la productora Harakiri Kei y el inicio de eventos abiertos a todo el público. Con una afluencia de 200 personas en la última edición de"Harajuku Walk Lima" , podemos decir que el estilo harajuku ha venido a quedarse en tierras peruanas, dejándonos una sensación de seguridad, expresión, pero sobre todo libertad.
@@ -16,17 +17,18 @@ La comunidad harajuku en nuestro país ha estado latente desde comienzos del sig
 
 </p>
 
-##  ¿ Qué es Harakiri Doll ?
-Cuando oímos la palabra *harakiri*, automáticamente la asociamos con el ritual japonés que tenían los sumarais al momento de cometer suicidio antes de morir en manos de su enemigo. 
-**¿Y como puede relacionarse eso con el nombre de nuestra marca?** Fácil, en el Perú por el año 2007 era un suicidio social salir a la calle utilizando el estilo Harajuku, mencionaba la dueña de la tienda virtual Harakiri Doll.
+##  ¿Qué es Harakiri Doll?
+Cuando oímos la palabra *harakiri*, automáticamente la asociamos con el ritual japonés que tenían los suamurais al momento de cometer suicidio antes de morir en manos de su enemigo. 
+**¿Y como puede relacionarse eso con el nombre de nuestra marca?** 
+La dueña de la tienda Harakiri Doll nos narra que en el Perú por el año 2007 era un suicidio social salir a la calle utilizando el estilo Harajuku.
 
-Harakiri Doll se inició como marca en el 2009 con una idea base de venta de accesorios hechos a mano por la diseñadora Sue Ellen Talavera Zamudio conocida como Moon Bastet. En el 2010, comenzó a realizar diseños de estilo harajuku(lolita entre otros),y así para el año 2013 ingresar a las redes sociales y consolidarse como la primera tienda en vender artículos de este estilo . La marca busca una inclusión y aceptación de los estilos denominados "diferentes" y ha trabajado de la mano con diferentes artistas para pasarelas, fotos y eventos de temáticas diversas. 
+Harakiri Doll se inició como marca en el 2009 con una idea base de venta de accesorios hechos a mano por la diseñadora Sue Ellen Talavera Zamudio conocida como Moon Bastet. En el 2010, comenzó a realizar diseños de estilo harajuku(estilo lolita entre otros) y así para el año 2013 ingresar a las redes sociales y consolidarse como la primera tienda en vender artículos de este estilo. La marca busca una inclusión y aceptación de los estilos denominados "diferentes" y ha trabajado de la mano con diferentes artistas para pasarelas, fotos y eventos de temáticas diversas. 
 
 Harakiri Doll brinda el servicio de confección de prendas a medida de estilo harajuku, dándoles la confianza de que su vestimenta será exclusiva y hecha por personas que conocen sobre el estilo. La tienda además ofrece un stock de prendas de estilo casual japonés para cualquier público.
 
 <p  align="center">
 
-<img  src="http://i65.tinypic.com/dxof8g.jpg">
+<img  src="http://i65.tinypic.com/dxof8g.jpg" width="300">
 
 </p>
 
@@ -35,6 +37,7 @@ Harakiri Doll brinda el servicio de confección de prendas a medida de estilo ha
 
 Este proyecto tiene como objetivo evaluar las fortalezas y debilidades de venta de la tienda "Harakiri Doll", además de conocer al público usuario de estos productos, determinando si es que tienen alguna dificultad al momento de mandar a confeccionar una prenda. Se evaluará si la solución es la creación de una página e-commerce, el flujo de compra e información que debe tener, para poder crear una experiencia grata y placentera a lo usuarios, tanto nacionales como internacionales.
 
+Cabe resaltar, que el enfoque de nuestro proyecto estará basado en las prendas a medida (estilo lolita).
 
 
 ## Implementación
@@ -74,7 +77,7 @@ Considera que la tienda es estacional y nos pidió enfocarnos en los vestidos lo
 - [Guías de entrevistas y audios](https://drive.google.com/drive/folders/15qVUF07t37MkCdLYa4gtMvhYq8PCzp48)
 
 <p align="center">
-<img src="http://i68.tinypic.com/102kqo7.jpg"> <img src="http://i67.tinypic.com/70uuzk.jpg">
+<img src="http://i68.tinypic.com/102kqo7.jpg" width="300"> <img src="http://i67.tinypic.com/70uuzk.jpg" width="300">
 </p> 
 
 ### BENCHMARK
@@ -101,6 +104,9 @@ Queríamos saber y entender las necesidades de los clientes y potenciales client
 - [Guías de entrevistas y audios](https://drive.google.com/drive/folders/1jM6RriZjtHbMgyHOtVBsPNOMHbbK86yp)
 
 * Conclusiones de entrevistas
+
+
+
 <p align="center">
 <img src="http://i66.tinypic.com/2chx7xx.jpg">
 </p>
@@ -121,7 +127,7 @@ Nuestro usuario ideal esta representado por "Sthephanie", una diseñadora gráfi
 </p>
 
 #### CUSTOMER JOURNEY MAP 
-.
+
 
 <p align="center">
 <img src="http://i67.tinypic.com/2ijixz4.jpg">
@@ -218,8 +224,7 @@ Ahora pensaremos las posibles soluciones para nuestros "problem statements".
 
 <p  align="center">
 
-<img  src=" http://i64.tinypic.com/14xnwwi.png
-"  >
+<img  src=" http://i64.tinypic.com/14xnwwi.png"  >
 </p>
 
  
@@ -238,7 +243,9 @@ Ahora pensaremos las posibles soluciones para nuestros "problem statements".
 
 ###  Prototipo de Alta fidelidad
 
-Tomamos en cuenta todos los testing de baja fidelidad e insertamos las siguientes mejoras:
+###  Primer prototipo de alta fidelidad
+
+Tomamos en cuenta todos los testing de baja fidelidad insertamos las siguientes mejoras:
 
 - Un mensaje avisando que la cotización ya está lista.
 - Diferenciamos los dos flujos desde el primer paso.
@@ -266,7 +273,54 @@ Realizamos el testing a una usuaria y para ello les pedimos que realizaran 2 tar
 
   
 
-###  Resultados del testing de alta fidelidad
+###  Resultados del testing del primer prototipo de alta fidelidad
+
+Luego de realizar el testing con el primer prototipo de alta fidelidad, los usuarios mencionaron lo siguiente:
+
+* El botón de "Obtenlo aquí" fue lo primero que vi y me confundió, pensé que era una sola cosa con la coleeción
+
+* Me gustaría que el precio del envío y de la prenda tenga un precio estándar (que el cambio de dólar sea estándar como en Paypal)
+
+* Quisiera que hubiera un código de colores para escoger
+
+* La chica de "Felicidades" podría ser alguien real.
+
+
+
+
+- [Videos del testing del primer prototipo de alta fidelidad]()
+
+
+###  Segundo prototipo de alta fidelidad
+
+Tomamos en cuenta todos los comentarios del primer testing  e insertamos las siguientes mejoras:
+
+- Para que los usuarios no se confundieran con el botón "Obtenlo aquí" cambiamos la posición de las secciones : el flujo de adquisión de una prenda de la colección estaría antes del flujo de prendas personalizadas.
+- Cambiamos el color de los botones principales (de D6D6D6 a D4847E)
+- Al momento de seleccionar un vestido de la colección, se tendrá un carrusel donde se podrán visualizar todos los vestidos, si es que el usuario desliza su dedo para el lado derecho.
+
+Realizamos el testing a una usuaria y para ello les pedimos que realizaran 2 tareas: 
+
+  
+  
+
+<p  align="center"><a href="http://picasion.com/"><img src="http://i.picasion.com/pic89/2c6e9206a3dd19dd295d20190737a9fe.gif" width="400" height="637" border="0" alt="http://picasion.com/" /></a><br /><a href="http://picasion.com/"></a><br/>  </p>
+
+  
+
+-  [Prototipo de alta fidelidad- Figma](https://www.figma.com/proto/CemttTIStb23CvmxOBktZfHW/HD-Alta?scaling=min-zoom)
+
+  
+
+<p  align="center">
+
+<img  src=""  width="300">
+
+</p>
+
+  
+
+###  Resultados del testing del primer prototipo de alta fidelidad
 
 Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios , hemos encontrado las siguientes dificultades que nos servirán para iterar:
 
@@ -283,24 +337,30 @@ Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios ,
 
 
 
-- [Videos del testing de Alta fidelidad]()
+- [Videos del testing del primer prototipo de alta fidelidad]()
+
 
 # Enlaces 
 
-## Prototipo navegable
-[Link a prototipo navegable](https://www.figma.com/proto/CemttTIStb23CvmxOBktZfHW/HD-Alta?node-id=0%3A1&scaling=min-zoom)
+## Prototipo navegable(mobile)
+[Link a prototipo navegable](https://www.figma.com/proto/CemttTIStb23CvmxOBktZfHW/HD-Alta?node-id=341%3A0&scaling=min-zoom)
 
-## Link de Figma
+## Link de Figma(mobile)
 [Link a prototipo navegable](https://www.figma.com/file/CemttTIStb23CvmxOBktZfHW/HD-Alta?node-id=0%3A1)
 
+## Prototipo navegable(desktop) FALTA EDITAR
+[Link a prototipo navegable]()
+
+## Link de Figma(desktop) FALTA EDITAR
+[Link a prototipo navegable]()
+
+
 ## Link de Zeplin
-[Link a Zeplin]()
+[Link a Zeplin](zpl.io/beA7ZLm)
 
 ## Proyecto en Drive
 [Link a documentación en Google Drive](https://drive.google.com/drive/folders/1coUuJZ8lqsTP3nShjLnNhFqDDMnXslmu)
 
 ## Video en Loom
 [Link a video de explicación del proyecto]()
-
-
 
