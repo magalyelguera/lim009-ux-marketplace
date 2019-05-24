@@ -171,7 +171,7 @@ Nuestro usuario ideal esta representado por "Sthephanie", una diseñadora gráfi
 ##### PROBLEM STATEMENTS
 Ahora que ya conocemos al nuestro cliente (User Persona) y sabemos sus necesidades, identificaremos los problemas para buscar los posibles soluciones.
 <p align="center">
-<img src="">
+<img src="http://i67.tinypic.com/s2xg0j.jpg">
 </p>
 
 ##### HOW MIGHT WE / CÓMO PODRÍAMOS
@@ -180,7 +180,7 @@ Ahora pensaremos las posibles soluciones para nuestros "problem statements".
 <img src="">
 </p>
 
-#### DEFINICION DEL PRODUCTO
+#### DEFINICIÓN DEL PRODUCTO
 
 #### USER FLOW
 
@@ -294,7 +294,7 @@ Realizamos el testing a una usuaria y para ello les pedimos que realizaran 2 tar
 
   
 
--  [Prototipo de alta fidelidad- Figma](https://www.figma.com/proto/CemttTIStb23CvmxOBktZfHW/HD-Alta?scaling=min-zoom)
+-  [PRIMER Prototipo de alta fidelidad- Figma](https://www.figma.com/file/NjHg3zCqHgNQz6AuDp0BzfWX/Untitled?node-id=3%3A1546)
 
   
 
@@ -337,11 +337,11 @@ Realizamos el testing a una usuaria y para ello les pedimos que realizaran 2 tar
   
   
 
-<p  align="center"><a href="http://picasion.com/"><img src="http://i.picasion.com/pic89/2c6e9206a3dd19dd295d20190737a9fe.gif" width="400" height="637" border="0" alt="http://picasion.com/" /></a><br /><a href="http://picasion.com/"></a><br/>  </p>
+<p  align="center"><a href="http://picasion.com/"><img src="http://i.picasion.com/pic89/136f0653f162be96b54aa64cdce8db1c.gif" width="300" height="548" border="0" alt="http://picasion.com/" /></a><br /><a href="http://picasion.com/"></a>  </p>
 
   
 
--  [Prototipo de alta fidelidad- Figma](https://www.figma.com/proto/CemttTIStb23CvmxOBktZfHW/HD-Alta?scaling=min-zoom)
+-  [SEGUNDO Prototipo de alta fidelidad- Figma](https://www.figma.com/proto/CemttTIStb23CvmxOBktZfHW/HD-Alta?node-id=341%3A0&scaling=min-zoom)
 
   
 
@@ -351,21 +351,7 @@ Realizamos el testing a una usuaria y para ello les pedimos que realizaran 2 tar
 
 </p>
 
-  
 
-###  Resultados del testing del primer prototipo de alta fidelidad
-
-Luego de realizar el testing con el prototipo de Alta Fidelidad con 5 usuarios , hemos encontrado las siguientes dificultades que nos servirán para iterar:
-
-  
-
-* El botón de "Obtenlo aquí" fue lo primero que vi y me confundió, pensé que era una sola cosa con la coleeción
-
-* Me gustaría que el precio del envío y de la prenda tenga un precio estándar (que el cambio de dólar sea estándar como en Paypal)
-
-* Quisiera que hubiera un código de colores para escoger
-
-* La chica de "Felicidades" podría ser alguien real.
 
 
 
