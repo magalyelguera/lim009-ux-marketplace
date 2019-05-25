@@ -44,7 +44,7 @@ Harakiri Doll brinda el servicio de confección de prendas a medida de estilo ha
 
 </p>
 
-> **Nota:** The **cambio de logo** varía según lo que este vendiendo la tienda esa temporada. El primer logo fue usado para la temporada de verano y la venta de ropa casual japonesa, el segundo logo estará siendo usado para la temporada otoño-invierno y la venta de vestidos lolita a confección. El tercer logo es una propuesta para esa temporada.
+> **Nota:** El **cambio de logo** varía según lo que este vendiendo la tienda esa temporada. El primer logo fue usado para la temporada de verano y la venta de ropa casual japonesa, el segundo logo estará siendo usado para la temporada otoño-invierno y la venta de vestidos lolita a confección. El tercer logo es una propuesta para esa temporada.
 
 
 ## Objetivo del proyecto
@@ -109,7 +109,7 @@ Dividimos el benchmark en dos, ya que nuestro servicio es confección de vestido
 #### Planteamiento del problema:
 Luego de nuestra entrevista a la clienta y de la exploración de sus redes sociales pudimos reconocer algunos problemas:
 * El servicio principal de la página es ofrecer la confección de prendas a medida, pero en ninguna de sus redes sociales lo menciona.
-* Se demora en responder un mnesaje privado en Facebook.
+* Se demora en responder un mensaje privado en Facebook.
 * La fanpage de facebook se actualiza días después que la de Instagram.
 * Repostea los post antiguos en la fanpage de Facebook.
 * Las entregas de las prendas sólo son en San Borja, Miraflores y Surco.
@@ -150,7 +150,7 @@ Donde pudimos rescatar los siguientes puntos:
 * **Flujo de compra**: Inicia en redes sociales, preguntan por el stock, talla, costo y/o envían modelos, depositan el 50%, esperan el producto y cancelan el 50% restante.
 * **Lo que más les gusto de la tienda**: La atención fue buena, los vestidos son confeccionados a medida, también se puede pedir modelos ya hechos. Les gustó el obsequio al final de la compra
 * **Lo que menos les gusto de la tienda**: La espera del producto, el medio de pago, las entregas fuera del tiempo establecido.  
-#### USER PERSON
+#### USER PERSONA
 Nuestro usuario ideal esta representado por "Sthephanie", una diseñadora gráfica que viste de forma casual y sin llamar la atención en su trabajo, pero que utiliza el estilo lolita fuera de este. Le encantan los colores oscuros y las faldas con mucho vuelo. Hace sus compras en Alliexprese, ya que el método de pago es rápido, pero también compra compra en Harakiri Doll y Cuteberry.
 <p align="center">
 <img src="http://i64.tinypic.com/2ajz3th.png">
@@ -160,7 +160,7 @@ Nuestro usuario ideal esta representado por "Sthephanie", una diseñadora gráfi
 
 
 <p align="center">
-<img src="http://i67.tinypic.com/2ijixz4.jpg">
+<img src="http://i67.tinypic.com/2ag689z.png">
 </p>
 
 - [Customer journey map HD](https://www.figma.com/proto/bbMTlqQVdVuGuIZM5rZcE0/HD-3ra-presentaci%C3%B3n?node-id=2%3A5&scaling=min-zoom)
@@ -182,6 +182,8 @@ Ahora pensaremos las posibles soluciones para nuestros "problem statements".
 
 #### DEFINICIÓN DEL PRODUCTO
 
+
+
 #### MAPA DE SITIO
 
 <p align="center">
@@ -195,11 +197,6 @@ Ahora pensaremos las posibles soluciones para nuestros "problem statements".
 </p>
 
 
-#### FLUJO DE LA PÁGINA
-
-<p align="center">
-<img src="">
-</p>
 
 #### PLANTEAMIENTO DE LA SOLUCIÓN 
 
@@ -280,7 +277,7 @@ Ahora pensaremos las posibles soluciones para nuestros "problem statements".
  * Le pareció mucho tiempo los dos días de espera por una respuesta, en todo caso le gustaría que si vuelve a entrar a la tienda le envíen una notificación de alerta.
   
 
--  [Videos del Testing de baja fidelidad](https://drive.google.com/drive/folders/1B5zfk6ejVjdtF1pk5-uqEBVaZCVBV1XB)
+-  [Videos del Testing de baja fidelidad](https://drive.google.com/drive/folders/1FqFjZDkg4w4js9N1rcXRLB-dwAlbPqX9)
 
 
 
@@ -332,7 +329,7 @@ Luego de realizar el testing con el primer prototipo de alta fidelidad, los usua
 
 
 
-- [Videos del testing del primer prototipo de alta fidelidad]()
+- [Videos del testing del primer prototipo de alta fidelidad](https://drive.google.com/drive/folders/1PrZvd1-FT57HeXsavcWgZYJWfbp6Disw)
 
 
 ###  Segundo prototipo de alta fidelidad
@@ -355,19 +352,14 @@ Realizamos el testing a una usuaria y para ello les pedimos que realizaran 2 tar
 -  [SEGUNDO Prototipo de alta fidelidad- Figma](https://www.figma.com/proto/CemttTIStb23CvmxOBktZfHW/HD-Alta?node-id=341%3A0&scaling=min-zoom)
 
   
+- [Videos del testing del segundo prototipo de alta fidelidad](https://drive.google.com/drive/folders/1PrZvd1-FT57HeXsavcWgZYJWfbp6Disw)
+
 
 <p  align="center">
 
 <img  src=""  width="300">
 
 </p>
-
-
-
-
-
-
-- [Videos del testing del primer prototipo de alta fidelidad]()
 
 
 # Enlaces 
