@@ -199,7 +199,8 @@ Ahora pensaremos las posibles soluciones para nuestros "problem statements".
 <p align="center">
 <img src="http://i66.tinypic.com/ndqumq.png">
 </p>
-
+<p hola>
+  </p>
 
 #### PLANTEAMIENTO DE LA SOLUCIÓN 
 
