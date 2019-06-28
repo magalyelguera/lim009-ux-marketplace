@@ -200,7 +200,6 @@ Ahora pensaremos las posibles soluciones para nuestros "problem statements".
 <img src="http://i66.tinypic.com/ndqumq.png">
 </p>
 
-
 #### PLANTEAMIENTO DE LA SOLUCIÓN 
 
 
